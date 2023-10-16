@@ -5,7 +5,7 @@ export default function Library() {
 
     useEffect(() => {
         const fetchData = async () => {
-            const response = await fetch('/api/books/')
+            const response = await fetch('http://localhost:5001/api/books/')
             const json = await response.json()
             setBooks(json)
         }

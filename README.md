@@ -1,1 +1,2 @@
-# Library
+# README
+This software serves as an illustration of a library management system crafted with the PERN technology stack. It empowers users to peruse books, verify their accessibility, and oversee their borrowing operations
